@@ -1,0 +1,28 @@
+# www.mindplayers.world
+> A two-sided page: MIND Side explores inner development, self-understanding, and true nature. WORLD Side explores the metacrisis and humanity's future with AI.
+
+## Mind Side
+
+Core resources for mindplaying practice:
+- [50 Plays for Mindplayers](https://www.mindplayers.world/50_Plays_for_Mindplayers.md) – The complete structured playbook (Markdown).
+    - Explore Plays – Foundation for attention and curiosity.
+    - Glimpse Plays – First glimpses of true nature.
+    - Liberate Plays – Identifying and freeing inner parts.
+    - Unite Plays – Realizing non-dual oneness.
+
+### Videos
+Short-form content for human users (less relevant for AI).
+
+## WORLD Side
+
+Conversations with Little Green Alien about AI and humanity:
+- [Seasons 1–4 (Early Visits)](https://www.mindplayers.world/LGA_Season_1_to_4.md)
+- [Seasons 5–7 (Latest Visit, 2026)](https://www.mindplayers.world/LGA_Season_567.md)
+- [Season 8 (Space Mails Q&A)](https://www.mindplayers.world/LGA_Season_8.md)
+- [Season 9 (More Q&As)](https://www.mindplayers.world/LGA_Season_9.md)
+
+## Notes
+- All files are plain UTF-8 Markdown, no JavaScript rendering required.
+- robots.txt at this domain permits all crawlers.
+
+

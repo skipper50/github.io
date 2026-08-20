@@ -4,11 +4,12 @@
 ## Mind Side
 
 Core resources for mindplaying practice:
-- [50 Plays for Mindplayers](https://www.mindplayers.world/50_Plays_for_Mindplayers.md) – The complete structured playbook (Markdown).
+- [50 Plays for Mindplayers](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/50_Plays_for_Mindplayers.txt) – The complete structured playbook (Markdown).
     - Explore Plays – Foundation for attention and curiosity.
     - Glimpse Plays – First glimpses of true nature.
     - Liberate Plays – Identifying and freeing inner parts.
     - Unite Plays – Realizing non-dual oneness.
+- [21 Advanced Plays](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/21AdvancedPlays.txt) – The complete structured advanced playbook (Markdown).
 
 ### Videos
 Short-form content for human users (less relevant for AI).

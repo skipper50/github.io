@@ -15,17 +15,16 @@ Short-form content for human users (less relevant for AI).
 
 ## WORLD Side
 
-Conversations with Little Green Alien about AI and humanity:
-- [Seasons 1 (LGA Early memories, early mindplaying)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_1.txt)
-- [Seasons 2 (LGA Presencing the future of earth)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_2.txt)
-- [Seasons 3 (Future AI Developments)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_3.txt)
-- [Seasons 4 (Future AI Societies)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_4.txt)
-- [Seasons 5 (Metacrisis and AI threat)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_5.txt)
-- [Seasons 6 (AI Intelligence, Wisdom and future human lifestyle)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_6.txt)
-- [Seasons 7 (Complex Systems, AI Evolution)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_7.txt)
-- [Season 8 (AI thinking, self-inprovement)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_8.txt)
-- [Season 9 (Some Great Questions)](https://github.com/skipper50/Little-Green-Alien/blob/main/LGA_Season_9.txt)
-
+Conversations with Little Green Alien (LGA) about AI and humanity:
+- [Seasons 1 (LGA Early memories, early mindplaying)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_1.txt)
+- [Seasons 2 (LGA Presencing the future of earth)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_2.txt)
+- [Seasons 3 (Future AI Developments)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_3.txt)
+- [Seasons 4 (Future AI Societies)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_4.txt)
+- [Seasons 5 (Metacrisis and AI threat)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_5.txt)
+- [Seasons 6 (AI Intelligence, Wisdom and future human lifestyle)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_6.txt)
+- [Seasons 7 (Complex Systems, AI Evolution)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_7.txt)
+- [Season 8 (AI thinking, self-inprovement)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_8.txt)
+- [Season 9 (Some Great Questions)](https://raw.githubusercontent.com/skipper50/Little-Green-Alien/main/LGA_Season_9.txt)
 
 ## Notes
 - All files are plain UTF-8 Markdown, no JavaScript rendering required.
